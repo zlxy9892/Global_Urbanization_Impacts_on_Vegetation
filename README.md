@@ -1,4 +1,7 @@
 # Global Urbanization-induced Impacts on Vegetation Growth
+
+The repository has been updated and transferred to: https://github.com/leizhang-geo/Global_Urbanization_Impacts_on_Vegetation.git
+
 This repository contains the code used for the analysis in the paper:
 
 **Zhang, L., Yang, L., Zohner, C.M., Crowther, T.W., Li, M., Shen, F., Guo, M., Qin, J., Yao, L., Zhou, C., 2022. Direct and indirect impacts of urbanization on vegetation growth across the world’s cities. *Science Advances* 8, eabo0095.** [https://doi.org/10.1126/sciadv.abo0095](https://doi.org/10.1126/sciadv.abo0095)
