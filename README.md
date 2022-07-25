@@ -1,6 +1,8 @@
 # Global Urbanization-induced Impacts on Vegetation Growth
 
-The repository has been updated and transferred to: https://github.com/leizhang-geo/Global_Urbanization_Impacts_on_Vegetation.git
+The repository has been updated and transferred to:
+
+https://github.com/leizhang-geo/Global_Urbanization_Impacts_on_Vegetation.git
 
 This repository contains the code used for the analysis in the paper:
 
